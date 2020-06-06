@@ -2,4 +2,3 @@ jupyter==1.0.0
 pycryptodome==3.9.7
 pandas
 matplotlib
-Pillow
